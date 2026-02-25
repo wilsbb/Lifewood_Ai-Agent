@@ -91,7 +91,7 @@ export default function RegisterForm({ onClose, onSuccess }) {
           loading={loading}
           disabled={loading}
         >
-          Register Account
+          Request Account
         </Button>
       </div>
     </form>
